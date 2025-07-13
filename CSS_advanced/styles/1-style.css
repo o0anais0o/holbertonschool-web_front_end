@@ -1,0 +1,4 @@
+/* Ce style garantit que le HTML défile de manière fluid */
+html {
+    scroll-behavior: smooth;
+}
